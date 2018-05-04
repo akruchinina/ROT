@@ -1,0 +1,11 @@
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\bin\Debug\netcoreapp2.0\Dot.Task_04.deps.json
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\bin\Debug\netcoreapp2.0\Dot.Task_04.runtimeconfig.json
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\bin\Debug\netcoreapp2.0\Dot.Task_04.runtimeconfig.dev.json
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\bin\Debug\netcoreapp2.0\Dot.Task_04.dll
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\bin\Debug\netcoreapp2.0\Dot.Task_04.pdb
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\obj\Debug\netcoreapp2.0\Dot.Task_04.csprojResolveAssemblyReference.cache
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\obj\Debug\netcoreapp2.0\Dot.Task_04.csproj.CoreCompileInputs.cache
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\obj\Debug\netcoreapp2.0\Dot.Task_04.AssemblyInfoInputs.cache
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\obj\Debug\netcoreapp2.0\Dot.Task_04.AssemblyInfo.cs
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\obj\Debug\netcoreapp2.0\Dot.Task_04.dll
+C:\Users\himei\source\repos\Dot.Task_04\Dot.Task_04\obj\Debug\netcoreapp2.0\Dot.Task_04.pdb
